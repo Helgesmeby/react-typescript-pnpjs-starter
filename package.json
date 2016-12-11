@@ -1,0 +1,35 @@
+{
+  "name": "react-typescript-pnpjs-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Helgesmeby/react-typescript-pnpjs-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Helgesmeby/react-typescript-pnpjs-starter/issues"
+  },
+  "homepage": "https://github.com/Helgesmeby/react-typescript-pnpjs-starter#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-prompt": "^0.2.0",
+    "source-map-loader": "^0.1.5",
+    "ts-loader": "^1.3.1",
+    "typescript": "^2.1.4",
+    "webpack": "^1.14.0",
+    "webpack-stream": "^3.2.0"
+  },
+  "dependencies": {
+    "@types/react": "^0.14.54",
+    "@types/react-dom": "^0.14.19",
+    "sp-pnp-js": "^1.0.6",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  }
+}
