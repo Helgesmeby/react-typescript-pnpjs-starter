@@ -5,7 +5,7 @@ Boilerplate starter repo for React + Typescript + PnPJS. The purpose of this rep
 1. Download [NodeJS](https://nodejs.org/en/download/)
 2. Clone [this repo](https://github.com/Helgesmeby/react-typescript-pnpjs-starter.git) to your machine
 4. Install gulp & typescript gobally with `npm install -g typescript gulp` 
-5. Run `npm init`
+5. Run `npm install`
 6. Edit files in `\src\`
 7. Compile with `webpack`
 
